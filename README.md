@@ -5,4 +5,4 @@
 The map depicts the impact of wind turbines on cranes' migration paths. The solution responded to challenge provided by Centre for Economic Development, Transport and the Environment in Southwest Finland
 (Varsinais-Suomen ELY-keskus). 
 
-Eplore the map: [https://utu-geospatial-labs.github.io/2024-windturbines-and-cranes/}(https://utu-geospatial-labs.github.io/2024-windturbines-and-cranes/)
+Eplore the map: [https://utu-geospatial-labs.github.io/2024-windturbines-and-cranes/](https://utu-geospatial-labs.github.io/2024-windturbines-and-cranes/)
